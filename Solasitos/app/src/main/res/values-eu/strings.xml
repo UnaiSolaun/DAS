@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SOLASITOS</string>
+    <string name="saveComment">Iruzkina gorde</string>
+    <string name="loadComment">Iruzkinak kargatu</string>
+    <string name="user">Erabiltzailea</string>
+    <string name="pwd">Pasahitza</string>
+    <string name="signIn">Sartu</string>
+    <string name="signUp">Erregistratu</string>
+    <string name="wellcome">ONGI ETORRI SOLASITOS FC</string>
+    <string name="name">Izena</string>
+    <string name="surname">Abizena</string>
+    <string name="createAccount">KONTUA SORTU</string>
+    <string name="done">Eginda</string>
+    <string name="back">Atzera</string>
+    <string name="yaExiste">Erabiltzaile hau jada existitzen da</string>
+    <string name="language">Hizkuntza</string>
+    <string name="langSummary">Zure hizkuntza aukeratu</string>
+    <string name="matches">Partidak</string>
+    <string name="players">Jokalariak</string>
+    <string name="classification">Sailkapena</string>
+    <string name="empty">Errorea: Eremu hutsak</string>
+    <string name="cancel">UTZI</string>
+    <string name="messageDialog">Sartu duzun erabiltzailea ez da existitzen</string>
+    <string name="POR">Atezaina</string>
+    <string name="DEF">Atzelaria</string>
+    <string name="MID">Erdilaria</string>
+    <string name="DEL">Aurrelaria</string>
+    <string name="settings">Ezarpenak</string>
+    <string name="start">Hasi</string>
+    <string name="english">Ingelesa</string>
+    <string name="spanish">Gatelania</string>
+    <string name="basque">Euskara</string>
+    <string name="titulo_inicioSesion">SAIOA HASI</string>
+    <string name="succesfully">Ondo erregistratu zara</string>
+    <string name="writeComment">Idatzi hemen zure iruzkina</string>
+    <string name="comments">IRUZKINAK</string>
+</resources>

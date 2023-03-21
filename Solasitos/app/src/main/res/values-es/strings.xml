@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SOLASITOS</string>
+    <string name="saveComment">Guardar comentario</string>
+    <string name="loadComment">Cargar comentarios</string>
+    <string name="user">Usuario</string>
+    <string name="pwd">Contraseña</string>
+    <string name="signIn">Iniciar Sesion</string>
+    <string name="signUp">Registrarse</string>
+    <string name="wellcome">BIENVENIDO A SOLASITOS FC</string>
+    <string name="name">Nombre</string>
+    <string name="surname">Apellido</string>
+    <string name="createAccount">CREAR CUENTA</string>
+    <string name="done">Hecho</string>
+    <string name="back">Atras</string>
+    <string name="yaExiste">El usuario introducido ya existe</string>
+    <string name="language">Idioma</string>
+    <string name="langSummary">Elige tu idioma</string>
+    <string name="matches">Partidos</string>
+    <string name="players">Jugadores</string>
+    <string name="classification">Clasificacion</string>
+    <string name="empty">Error: Campos vacios</string>
+    <string name="cancel">CANCELAR</string>
+    <string name="messageDialog">El usuario que has introducido no existe</string>
+    <string name="POR">Portero</string>
+    <string name="DEF">Defensa</string>
+    <string name="MID">Medio</string>
+    <string name="DEL">Delantero</string>
+    <string name="settings">Ajustes</string>
+    <string name="start">Empezar</string>
+    <string name="english">Ingles</string>
+    <string name="spanish">Español</string>
+    <string name="basque">Euskera</string>
+    <string name="titulo_inicioSesion">INICIAR SESION</string>
+    <string name="succesfully">Te has registrado correctamente</string>
+    <string name="writeComment">Escribe aqui tu comentario</string>
+    <string name="comments">COMENTARIOS</string>
+</resources>
