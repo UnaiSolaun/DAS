@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="lista_compras">
+        <item>Pan</item>
+        <item>Leche</item>
+        <item>Huevos</item>
+        <item>Queso</item>
+        <item>Jamón serrano</item>
+        <item>Pollo</item>
+        <item>Pescado</item>
+        <item>Carne picada</item>
+        <item>Verduras</item>
+        <item>Frutas</item>
+        <item>Arroz</item>
+        <item>Pasta</item>
+        <item>Salsa de tomate</item>
+        <item>Aceite de oliva</item>
+        <item>Vinagre balsámico</item>
+        <item>Sal</item>
+        <item>Azúcar</item>
+        <item>Harina</item>
+        <item>Levadura</item>
+        <item>Mermelada</item>
+        <item>Mantequilla</item>
+        <item>Yogur</item>
+        <item>Cereales</item>
+        <item>Café</item>
+        <item>Té</item>
+        <item>Galletas</item>
+        <item>Chocolate</item>
+        <item>Refrescos</item>
+        <item>Cerveza</item>
+        <item>Vino tinto o blanco</item>
+    </array>
+</resources>

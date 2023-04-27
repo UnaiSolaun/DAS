@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "929397440702",
+    "project_id": "solasitos-v2",
+    "storage_bucket": "solasitos-v2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929397440702:android:514d18655cc4058fd1deef",
+        "android_client_info": {
+          "package_name": "aaa.solasitosv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929397440702-qcdrntg06sq3d0g395se1difplmj54u9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkeraS9VqP9OV8F8PkdKn6NumStIrLaAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929397440702-qcdrntg06sq3d0g395se1difplmj54u9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PHP_App</string>
+    <string name="user">User</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="createAccount">Create Account</string>
+    <string name="bienvenido">Wellcome</string>
+    <string name="takePhoto">Take a Photo</string>
+    <string name="widgetMenu">Widget Menu</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="createWidget">Create Widget</string>
+    <string name="refreshWidget">Refresh Widget</string>
+</resources>
